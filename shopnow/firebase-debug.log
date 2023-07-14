@@ -1,0 +1,21 @@
+[debug] [2023-07-14T11:46:52.679Z] ----------------------------------------------------------------------
+[debug] [2023-07-14T11:46:52.683Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HP\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-07-14T11:46:52.684Z] CLI Version:   12.4.4
+[debug] [2023-07-14T11:46:52.685Z] Platform:      win32
+[debug] [2023-07-14T11:46:52.686Z] Node Version:  v16.15.0
+[debug] [2023-07-14T11:46:52.692Z] Time:          Fri Jul 14 2023 17:16:52 GMT+0530 (India Standard Time)
+[debug] [2023-07-14T11:46:52.693Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-07-14T11:46:52.709Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-07-14T11:46:52.711Z] > authorizing via signed-in user (pankajkoche04@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  H:\work\shopnow\shopnow
+
